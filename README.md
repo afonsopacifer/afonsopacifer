@@ -1,4 +1,4 @@
-![Hack and Share.](./images/banner.jpg)
+![Hack and Share.](https://raw.githubusercontent.com/afonsopacifer/afonsopacifer/master/images/banner.jpg)
 
 ## Hi there 💜
 
