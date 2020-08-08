@@ -4,14 +4,14 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/afonsopacifer?label=Follow)](https://twitter.com/afonsopacifer)
 
-- 🌏  I’m currently working with principal javascript developer/tech lead at @valleweb.
-- 🎤 Host at @frontendbr community.
+- 🌏  I’m currently working as a principal javascript developer/tech lead at [@valleweb](https://github.com/valleweb).
+- 🎤 Host at [@frontendbr](https://github.com/frontendbr) community.
 
 
 ## 💛 Fun Facts
 
-- I love Retro games.
+- I love Retro Games.
 - I love J-pop/J-rock and K-pop.
-- I love Magic the gathering.
+- I love Magic The Gathering.
 
 ⭐ See my [personal website](https://afonsopacifer.github.io/) for `articles`, `videos`, `talks`, and more.
